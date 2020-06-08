@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "dev": "g++ -g app.cpp -o out/app  && out/app"
+  }
+}
